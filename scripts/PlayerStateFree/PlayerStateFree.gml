@@ -16,6 +16,12 @@ if(_oldSprite != sprite_index){
 //Update Image Index
 PlayerAnimateSprite();
 
+//Attack key logic
+if(keyAttack){
+	state = PlayerStateAttack;
+	stateAttack = AttackSlash;
+}
+
 //Activate key logic
 if(keyActivate){
 	//1. Check for an entity to activate.
