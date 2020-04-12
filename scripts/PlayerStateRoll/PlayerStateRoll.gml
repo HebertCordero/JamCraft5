@@ -16,6 +16,7 @@ if(moveDistanceRemaining <= 0){
 }
 
 if(_collided){
-	state = PlayerStateFree;
-	ScreenShake(8,30);
+	state = PlayerStateBonk;
+	moveDistanceRemaining = distanceBonk;
+	ScreenShake(4,30);
 }

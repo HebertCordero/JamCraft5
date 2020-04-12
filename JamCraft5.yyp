@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "42b25393-05cc-4769-9d73-793d3750b8fa",
+            "Value": {
+                "id": "f403a6fd-5d88-4024-8311-f284aca91418",
+                "resourcePath": "sprites\\sPlayerHurt\\sPlayerHurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "440d6777-425b-4a6a-985e-ac228dd6251a",
             "Value": {
                 "id": "bdd2d443-82ea-4bff-aa6f-97186cee8e97",
@@ -220,6 +228,14 @@
                 "id": "5b63a8a7-c9b1-4fc6-bb71-abda6aca025c",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "76df7f50-b239-4a51-9837-30b952d65a7c",
+            "Value": {
+                "id": "7e064540-0b31-426f-960d-7d348cd9cb57",
+                "resourcePath": "sprites\\sShadow\\sShadow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -439,6 +455,14 @@
             }
         },
         {
+            "Key": "f409c2f1-6d8a-4631-b802-3e605485b227",
+            "Value": {
+                "id": "7be0a9c0-f85d-4c63-9fe5-8e9c8e435cda",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "06f91d5a-2da7-4c0b-8ed5-a0c06a2b0903",
@@ -471,6 +495,14 @@
             }
         },
         {
+            "Key": "fada6bfa-9cfa-45d1-9275-36d75e3e9249",
+            "Value": {
+                "id": "b51f1952-a726-4922-b963-4462e7139de7",
+                "resourcePath": "scripts\\PlayerStateBonk\\PlayerStateBonk.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ff4c1e39-9364-4d7c-ae68-26084c345b12",
             "Value": {
                 "id": "362ced31-8cc1-4b48-a79b-6417dea04810",
@@ -490,7 +522,8 @@
         "f8a6f060-f46d-46b7-8762-665fedc5d037",
         "716db763-2a35-432c-a163-c7895b77425e",
         "b7c4f76e-c179-475d-8b65-ffc6bd206b14",
-        "555886bf-eda2-4fff-96fd-5ae9e325f6a1"
+        "555886bf-eda2-4fff-96fd-5ae9e325f6a1",
+        "fada6bfa-9cfa-45d1-9275-36d75e3e9249"
     ],
     "tutorial": ""
 }
